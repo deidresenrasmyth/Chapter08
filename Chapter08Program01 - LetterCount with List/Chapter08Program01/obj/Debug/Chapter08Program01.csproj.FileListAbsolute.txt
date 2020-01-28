@@ -1,0 +1,10 @@
+D:\IBT\C#\Chapter08Program01 - LetterCount\Chapter08Program01\bin\Debug\Chapter08Program01.exe.config
+D:\IBT\C#\Chapter08Program01 - LetterCount\Chapter08Program01\bin\Debug\Chapter08Program01.exe
+D:\IBT\C#\Chapter08Program01 - LetterCount\Chapter08Program01\bin\Debug\Chapter08Program01.pdb
+D:\IBT\C#\Chapter08Program01 - LetterCount\Chapter08Program01\obj\Debug\Chapter08Program01.csprojAssemblyReference.cache
+D:\IBT\C#\Chapter08Program01 - LetterCount\Chapter08Program01\obj\Debug\Chapter08Program01.Form1.resources
+D:\IBT\C#\Chapter08Program01 - LetterCount\Chapter08Program01\obj\Debug\Chapter08Program01.Properties.Resources.resources
+D:\IBT\C#\Chapter08Program01 - LetterCount\Chapter08Program01\obj\Debug\Chapter08Program01.csproj.GenerateResource.cache
+D:\IBT\C#\Chapter08Program01 - LetterCount\Chapter08Program01\obj\Debug\Chapter08Program01.csproj.CoreCompileInputs.cache
+D:\IBT\C#\Chapter08Program01 - LetterCount\Chapter08Program01\obj\Debug\Chapter08Program01.exe
+D:\IBT\C#\Chapter08Program01 - LetterCount\Chapter08Program01\obj\Debug\Chapter08Program01.pdb
